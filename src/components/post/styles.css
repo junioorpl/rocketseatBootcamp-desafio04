@@ -1,0 +1,36 @@
+hr{
+  border-radius: 25px;
+  margin-bottom: 10px;
+}
+
+div.mainBox{
+  align-items: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  margin-top: 25px;
+  margin-bottom: 5px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 25px;
+  padding-right: 25px;
+  border-radius: 3px;
+  max-width: 650px;
+  width: 100%;
+  background: #fff;
+  box-shadow: 1px 1px 4px #b5b5b5;
+  -webkit-font-smoothing: antialiased !important;
+}
+
+div.postHeader{
+  display: flex;
+  justify-items: auto;
+}
+
+div.postHeader p{
+  margin-left: 8px;
+}
+
+img.author{
+  border-radius: 25px;
+  height: 40px;
+}

@@ -1,0 +1,22 @@
+div.commentBox{
+  display: flex;
+  justify-content: flex-start;
+}
+
+img.comment{
+  margin-top: 5px;
+  border-radius: 30px;
+  height: 30px;
+}
+
+div.comment{
+  font-size: 15px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 5px;
+  padding: 10px;
+  border-radius: 5px;
+  width: 100%;
+  max-width: 565px;
+  background: #f2f2f2;
+}

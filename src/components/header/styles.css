@@ -1,0 +1,19 @@
+div.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background: #4a90e2;
+}
+
+div.navbar img#logo {
+  height: 50px;
+  align-self: flex-start;
+}
+
+div.navbar span#myProfile{
+  margin-bottom: 15px;
+  margin-right: 10px;
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+  align-self: flex-end;
+}
